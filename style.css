@@ -3,6 +3,7 @@ body {
 }
 
 .titulo {
+	 color: #fff;
      font-size: 55px;
      text-transform: uppercase;
      letter-spacing: 7px;
@@ -14,6 +15,11 @@ body {
 }
 
 #text {
+     color: #fff;
+	 text-align: center;
+}
+
+#link {
      color: #fff;
 	 text-align: center;
 }
